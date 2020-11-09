@@ -1,0 +1,145 @@
+
+header{
+    width: 100%;
+    height: 85px;
+    margin-top: 10px;
+    background-color:rgb(0,182,189);
+}
+
+footer{
+    width: 100%;
+    height: 85px;
+    margin-top: -10px;
+    background-color:rgb(0,182,189);
+}
+
+#entrar{
+    position: relative;
+    top: 30px;
+    left: 90%;
+}
+
+#admInicial{
+    width: 1000px;
+    height: 550px;
+    position: relative;
+    top: 10px;
+    left: 200px;
+}
+
+#Home{
+    
+    position: relative;
+    top: 30px;
+    left: 690px;
+
+}
+
+#admCadastro{
+    position: relative;
+    top: 30px;
+    left: 740px;
+}
+
+#admPesquisa{
+    position: relative;
+    top: 30px;
+    left: 790px;
+}
+
+#admReceita{
+    position: relative;
+    top: 30px;
+    left: 840px;
+}
+
+#Sair{
+    position: relative;
+    top: 30px;
+    left: 890px;
+}
+
+#logo{
+    width: 80px;
+    float: left;
+}
+
+#salvar{
+    position: relative;
+    top: -30px;
+    left: 10px;
+}
+
+#cancelar{
+    position: relative;
+    top: -30px;
+    left: 800px;
+}
+
+#salvarRemedio{
+    position: relative;
+    top: -200px;
+    left: 210px;
+}
+
+#cancelarRemedio{
+    position: relative;
+    top: -200px;
+    left: 1000px;
+}
+
+
+
+
+#txtNome1{
+    background-color: transparent;
+}
+#txtPequisa{
+    position: relative;
+    left: 100px;
+}
+
+#divAux{
+    max-width: 100px;
+}
+
+.exibirTodos{
+    margin-top: 90%;
+}
+.dropdown-content {
+    max-height: 100;
+}
+
+.select-context{
+    height: 100px;
+}
+
+.browser-default{
+    height: 33px;
+}
+
+#salvarReceita{
+    position: relative;
+    top: -30px;
+    left: 10px;
+}
+
+#cancelarReceita{
+    position: relative;
+    top: -30px;
+    left: 1000px;
+}
+#h3{
+    color: black;
+}
+
+#divVoltar{
+    position: relative;
+    left: 450px;
+    top: 200px;
+}
+
+#voltarBtn{
+    position: relative;
+    left: 70px;
+}
